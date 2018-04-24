@@ -7,5 +7,5 @@ Soap：(Simple Object Access Protocol)简单对象存取协议。是XML Web Serv
 WSDL：(Web Services Description Language) WSDL 文件是一个 XML 文档，用于说明一组 SOAP 消息以及如何交换这些消息。大多数情况下由软件自动生成和使用。 
  
 如何发布一个webservice:
-1. 创建一个web项目（为了简单明了，我一共创建了三个类，一个接口，一个接口实现类，一个发布类（main方法）。具体如下：）
+1. 创建一个web项目（为了简单明了，我一共创建了三个类，一个接口，一个接口实现类，一个发布类（main方法）
 
